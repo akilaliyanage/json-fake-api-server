@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "id": 1,
+      "title": "party"
+    },
+    {
+      "id": 2,
+      "title": "concert"
+    },
+    {
+      "id": 3,
+      "title": "bday"
+    },
+    {
+      "id": 4,
+      "title": "election"
+    },
+    {
+      "id": 5,
+      "title": "party"
+    },
+    {
+      "id": 6,
+      "title": "funeral"
+    },
+    {
+      "id": 1,
+      "title": "wedding"
+    }
+  ]
+}
