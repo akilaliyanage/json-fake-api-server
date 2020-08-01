@@ -1,0 +1,24 @@
+{
+  "equipmets": [
+    {
+      "id": 1,
+      "title": "hut"
+    },
+    {
+      "id": 2,
+      "title": "chairs"
+    },
+    {
+      "id": 3,
+      "title": "food"
+    },
+    {
+      "id": 4,
+      "title": "tent"
+    },
+    {
+      "id": 5,
+      "title": "summer hut"
+    }
+  ]
+}
