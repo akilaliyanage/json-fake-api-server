@@ -51,5 +51,26 @@
       "title": "summer hut"
     }
   ],
-  "event": [{}]
+  "event": [
+    {
+      "id": 1234,
+      "eventname": "",
+      "creatorname": "",
+      "creatorphone": "",
+      "type": [],
+      "location": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "delivery": false,
+      "eq": [],
+      "des": "",
+      "date": "",
+      "time": "",
+      "budget": "",
+      "headC": "",
+      "email": "",
+      "emailval": "warning"
+    }
+  ]
 }
