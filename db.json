@@ -53,15 +53,15 @@
   ],
   "event": [
     {
-      "id": 1234,
-      "eventname": "",
-      "creatorname": "",
+      "id": 1,
+      "eventname": "my test event 1",
+      "creatorname": "akila liyanage",
       "creatorphone": "",
       "type": [],
       "location": "",
       "description": "",
-      "date": "",
-      "time": "",
+      "date": "2020-10-10",
+      "time": "8.30AM",
       "delivery": false,
       "eq": [],
       "des": "",
@@ -72,16 +72,16 @@
       "email": "",
       "emailval": "warning"
     },
-     {
+    {
       "id": 2,
-      "eventname": "",
-      "creatorname": "",
+      "eventname": "my test event 1",
+      "creatorname": "akila liyanage",
       "creatorphone": "",
       "type": [],
       "location": "",
       "description": "",
-      "date": "",
-      "time": "",
+      "date": "2020-10-10",
+      "time": "8.30AM",
       "delivery": false,
       "eq": [],
       "des": "",
@@ -92,16 +92,16 @@
       "email": "",
       "emailval": "warning"
     },
-     {
-      "id": 3,
-      "eventname": "",
-      "creatorname": "",
+      {
+      "id": 2,
+      "eventname": "my test event 1",
+      "creatorname": "akila liyanage",
       "creatorphone": "",
       "type": [],
       "location": "",
       "description": "",
-      "date": "",
-      "time": "",
+      "date": "2020-10-10",
+      "time": "8.30AM",
       "delivery": false,
       "eq": [],
       "des": "",
@@ -111,6 +111,6 @@
       "headC": "",
       "email": "",
       "emailval": "warning"
-    }
+    },
   ]
 }
